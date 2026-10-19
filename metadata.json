@@ -1,0 +1,6 @@
+{
+  "name": "폴리페모스의 실험실: 분자 탈출 (Polyphemus Laboratory)",
+  "description": "지하 비밀 연구소에서 기형 거인 외눈박이 괴물 '폴리페모스'의 추격을 피해 화학 원소를 수집하고 분자를 합성하여 공격하고 최종 보스룸에서 탈출하는 3D 호러 생존 아케이드 액션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
